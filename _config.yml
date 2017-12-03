@@ -2,10 +2,10 @@
 permalink:      /:year-:month-:day/:title
 
 # Setup
-title:          Tale
-paginate:       5
-baseurl:        "/tale"
-url:            "https://chesterhow.github.io"
+title:          Zakaria Amine
+paginate:       10
+baseurl:        ""
+url:            "https://zak905.github.io/"
 
 # Assets
 sass:
@@ -17,9 +17,9 @@ markdown:       kramdown
 
 # About
 author:
-  name:         Chester How
-  url:          http://chester.how
-  email:        chesterhow@gmail.com
+  name:         Zakaria Amine
+  url:          http://www.zakariaamine.com
+  email:        zakaria@amine.com
 
 # Custom vars
 version:        3.4.1
