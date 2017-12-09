@@ -2,6 +2,7 @@
 layout: post
 title: "How to deploy your project to Maven Central"
 author: "Zakaria"
+comments: true
 ---
 
 

@@ -2,6 +2,7 @@
 layout: post
 title: "Testing a Rest API in Spring Framework"
 author: "Zakaria"
+comments: true
 ---
 
 After you have designed your Rest API and implemented it successfully, you need to test it. Testing a Rest Api is not easy because of the application context. By default, to be able to run tests, the Spring MVC container needs to be launched as it contains all of the components that the application needs to run properly ( request mapping, exception handling, ...). However, launching the container will take a considerable amount of time slowing down tests. Usually, tests need to run quicker than the application.<br>

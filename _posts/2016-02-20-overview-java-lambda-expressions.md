@@ -2,6 +2,7 @@
 layout: post
 title: "Overview of Java lambda expressions"
 author: "Zakaria"
+comments: true
 ---
 
 Lambdas are considered one of the major changes introduced to the Java language constructs since its release. Sooner or later, Java developers will need to get accustomed to using and manipulating lambdas. To put it a simple way, Lambda expressions can be refered to as a method without a name that can be declared anywhere. We know that the essence of Java is object orientation, so normally methods can only live inside an object or an interface. Lambdas were introduced to deal with this shortcoming. They add a flavor of functional programming to one of the most traditional object oriented languages.

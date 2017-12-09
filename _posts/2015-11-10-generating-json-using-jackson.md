@@ -2,6 +2,7 @@
 layout: post
 title: "Generating Json using Jackson"
 author: "Zakaria"
+comments: true
 ---
 
 JSON is the number one format when it comes to exchanging data over the Web. In this tutorial, we will go through how to generate JSON content, using Jackson library.

@@ -2,6 +2,7 @@
 layout: post
 title: "Quick overview of Spring boot"
 author: "Zakaria"
+comments: true
 ---
 
 
