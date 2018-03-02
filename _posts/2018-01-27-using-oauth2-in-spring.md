@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Implementing OAuth2 in Spring: Part 1"
+title: "Implementing OAuth2 in Spring: part 1"
 author: "Zakaria"
 comments: true
 ---
