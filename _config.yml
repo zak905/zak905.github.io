@@ -26,6 +26,10 @@ version:        3.4.1
 github:
   repo:         https://github.com/chesterhow/tale
 
+# for feed.xml
+name: Zakaria Amine's blog
+description: blog about java develpement and backend
+
 # Gems
 plugins:
   - jekyll-paginate
