@@ -1,7 +1,6 @@
 ---
 layout: about
 title: "About"
-author: "Zakaria Amine"
 permalink: /about/
 ---
 
