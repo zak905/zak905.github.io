@@ -3,6 +3,7 @@ layout: post
 title: "Extending Keycloak (continued): using a custom email sender"
 author: "Zakaria"
 comments: true
+description: example of using SES as keycloak's email sender
 ---
 
 # Introduction
