@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Extracting memory from docker stats using bash tricks"
+title: "Extracting memory usage from docker stats using bash tricks"
 author: "Zakaria"
 comments: true
 description: docker stats
