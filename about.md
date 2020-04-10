@@ -4,4 +4,4 @@ title: "About"
 permalink: /about/
 ---
 
-Full stack developer who enjoys working with Java, and open source stuff. 
+Full stack developer who enjoys working with Java, Golang, Javascript.....and open source stuff.
